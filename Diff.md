@@ -14,6 +14,4 @@ index 38c26ee..cf3c5a1 100644
 +            regs += ['cs', 'ds', 'es', 'fs', 'gs', 'ss']
 
      changed = pwndbg.gdblib.regs.changed
-
-~
 ```
