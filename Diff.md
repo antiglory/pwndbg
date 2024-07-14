@@ -15,3 +15,4 @@ index 38c26ee..cf3c5a1 100644
 
      changed = pwndbg.gdblib.regs.changed
 ```
+- also i already updated pwndbg/commands/context.py with my changes
