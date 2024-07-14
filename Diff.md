@@ -1,4 +1,4 @@
-- i did some changes and im doing more changes in my pwndbg, some of there is on [.gdbinit](<https://github.com/antiglory/pwndbg/.gdbinit>) file
+- i did some changes and im doing more changes in my pwndbg, some of there is on [.gdbinit](<./.gdbinit>) file
 ```
 ~ git diff
 diff --git a/pwndbg/commands/context.py b/pwndbg/commands/context.py
