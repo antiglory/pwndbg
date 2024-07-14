@@ -572,6 +572,7 @@ def get_regs(regs: List[str] = None):
 
         if pwndbg.gdblib.config.show_flags:
             regs += pwndbg.gdblib.regs.flags.keys()
+            regs += ['cs', 'ds', 'es', 'fs', 'gs', 'ss']
 
     changed = pwndbg.gdblib.regs.changed
 
